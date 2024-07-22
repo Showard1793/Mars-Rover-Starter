@@ -1,5 +1,3 @@
-//Updated
-
 class Command {
    constructor(commandType, value) {
      this.commandType = commandType;
@@ -8,7 +6,6 @@ class Command {
      }
      this.value = value;
    }
- 
  }
  
  module.exports = Command;
